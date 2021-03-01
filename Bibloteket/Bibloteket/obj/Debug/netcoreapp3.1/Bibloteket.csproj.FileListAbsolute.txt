@@ -1,0 +1,13 @@
+C:\Users\patr7775\Desktop\Uddannelse\Hovedeforløb 1\Bibloteket\Bibloteket\bin\Debug\netcoreapp3.1\Bibloteket.exe
+C:\Users\patr7775\Desktop\Uddannelse\Hovedeforløb 1\Bibloteket\Bibloteket\bin\Debug\netcoreapp3.1\Bibloteket.deps.json
+C:\Users\patr7775\Desktop\Uddannelse\Hovedeforløb 1\Bibloteket\Bibloteket\bin\Debug\netcoreapp3.1\Bibloteket.runtimeconfig.json
+C:\Users\patr7775\Desktop\Uddannelse\Hovedeforløb 1\Bibloteket\Bibloteket\bin\Debug\netcoreapp3.1\Bibloteket.runtimeconfig.dev.json
+C:\Users\patr7775\Desktop\Uddannelse\Hovedeforløb 1\Bibloteket\Bibloteket\bin\Debug\netcoreapp3.1\Bibloteket.dll
+C:\Users\patr7775\Desktop\Uddannelse\Hovedeforløb 1\Bibloteket\Bibloteket\bin\Debug\netcoreapp3.1\Bibloteket.pdb
+C:\Users\patr7775\Desktop\Uddannelse\Hovedeforløb 1\Bibloteket\Bibloteket\obj\Debug\netcoreapp3.1\Bibloteket.csprojAssemblyReference.cache
+C:\Users\patr7775\Desktop\Uddannelse\Hovedeforløb 1\Bibloteket\Bibloteket\obj\Debug\netcoreapp3.1\Bibloteket.AssemblyInfoInputs.cache
+C:\Users\patr7775\Desktop\Uddannelse\Hovedeforløb 1\Bibloteket\Bibloteket\obj\Debug\netcoreapp3.1\Bibloteket.AssemblyInfo.cs
+C:\Users\patr7775\Desktop\Uddannelse\Hovedeforløb 1\Bibloteket\Bibloteket\obj\Debug\netcoreapp3.1\Bibloteket.csproj.CoreCompileInputs.cache
+C:\Users\patr7775\Desktop\Uddannelse\Hovedeforløb 1\Bibloteket\Bibloteket\obj\Debug\netcoreapp3.1\Bibloteket.dll
+C:\Users\patr7775\Desktop\Uddannelse\Hovedeforløb 1\Bibloteket\Bibloteket\obj\Debug\netcoreapp3.1\Bibloteket.pdb
+C:\Users\patr7775\Desktop\Uddannelse\Hovedeforløb 1\Bibloteket\Bibloteket\obj\Debug\netcoreapp3.1\Bibloteket.genruntimeconfig.cache
